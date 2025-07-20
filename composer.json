@@ -1,0 +1,18 @@
+{
+    "name": "huement/basic",
+    "description": "Basic PHP Index for deployment testing",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Huement\\Basic\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Derek",
+            "email": "598517+johnny13@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
